@@ -1,4 +1,4 @@
-# JavaScript / JQuery based samples for Accessing an Azure Search Service
+# JavaScript / JQuery based Samples for Accessing an Azure Search Service
 This repository contains samples that show how to interact with Azure Search from a JavaScript client.  
 
 ## Important Note
