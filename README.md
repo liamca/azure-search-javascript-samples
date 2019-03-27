@@ -13,3 +13,8 @@ This sample shows a number of capabilities including:
 * Autocomplete
 * Paging
 
+[Live Demo](https://liamca.github.io/RealEstateDemoJS/index.html)
+
+[Code](https://github.com/liamca/azure-search-javascript-samples/tree/master/RealEstateDemoJS)
+
+![Real Estate Search Demo for Azure Search in JavaScript](https://github.com/liamca/azure-search-javascript-samples/raw/master/RealEstateDemoJS/RealEstateDemoScreenShot.png)
